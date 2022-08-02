@@ -1,0 +1,20 @@
+<arrendatarios>
+    <arrendatario>
+        <id>1</id>
+        <nombre>Juan</nombre>
+        <apellido>Perez</apellido>
+        <dni>12345678</dni>
+        <telefono>12345678</telefono>
+        <email>arrendatario.01@ejemplo.cl</email>
+        <direccion>Calle falsa 123</direccion>
+    </arrendatario>
+    <arrendatario>
+        <id>2</id>
+        <nombre>Juan</nombre>
+        <apellido>Perez</apellido>
+        <dni>12345678</dni>
+        <telefono>12345678</telefono>
+        <email>arrendatario.02@ejemplo.cl</email>
+        <direccion>Calle falsa 123</direccion>
+    </arrendatario>
+</arrendatarios>
